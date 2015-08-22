@@ -1,6 +1,6 @@
 ###熟悉Markdown
 
-> 一: 标题的使用
+一: 标题的使用
 
 >># 一级标题
 >>## 二级标题
@@ -9,9 +9,9 @@
 >>##### 五级标题
 >>###### 六级标题
 
-> 二.代码区块
+二.代码区块
 
-void main()	
-{	
-printf("Hello,Markdown.");
-}
+	void main()	
+	{	
+	printf("Hello,Markdown.");
+	}
