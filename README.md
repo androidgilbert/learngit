@@ -15,3 +15,7 @@
 	{	
 	printf("Hello,Markdown.");
 	}
+
+三.强调
+
+*斜体*  **粗体**
