@@ -36,3 +36,7 @@
 五.链接
 
 [zhouchao的Markdown](http://www.google.com)
+
+六.图片
+
+![这就是图片](http://ww1.sinaimg.cn/large/68f4ec25jw1evbq8u984bj2098098gmh.jpg)
